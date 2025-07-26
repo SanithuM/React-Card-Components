@@ -17,4 +17,4 @@ This is a reusable and customizable **React Card Component** built using React a
 
 Here’s a preview of the card component:
 
-![Card Preview](./assets/card-preview.png)
+![Card Preview](src/assets/card-preview.png)
